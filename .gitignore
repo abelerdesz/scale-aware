@@ -1,0 +1,54 @@
+# Compiled Python files and cache directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+.venv/
+env/
+.env/
+myenv
+
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Audio files and datasets
+*.wav
+*.mp3
+playground/
+data/
+
+# Generated files
+pitch_profiles.json
+*.log
+*.tmp
+*.temp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test and coverage reports
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Environment and configuration files
+.env
+*.env
+secrets.yml
+config.ini
+
+# Logs and temporary files
+logs/
+*.log
+*.out
+
+# Miscellaneous
+*.bak
+*.swp
